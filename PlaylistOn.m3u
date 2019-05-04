@@ -1,0 +1,25 @@
+#EXTM3U
+
+#EXTGRP:Детские
+#EXTINF:0,Піксель
+https://cdnua01.hls.tv/hls/803c970f00ef64b2f3471a7583de8302/135/stream.m3u8
+#EXTINF:0,Плюс Плюс
+
+https://cdnua01.hls.tv/hls/803c970f00ef64b2f3471a7583de8302/136/stream.m3u8
+#EXTINF:0,Nickjr
+https://cdnua01.hls.tv/hls/803c970f00ef64b2f3471a7583de8302/277/stream.m3u8
+#EXTINF:0,Nickelodeon HD
+
+https://cdnua01.hls.tv/hls/803c970f00ef64b2f3471a7583de8302/278/stream.m3u8
+#EXTINF:0,NIKI Junior
+https://cdnua01.hls.tv/hls/803c970f00ef64b2f3471a7583de8302/3621/stream.m3u8
+#EXTINF:0,NIKI Kids
+https://cdnua01.hls.tv/hls/803c970f00ef64b2f3471a7583de8302/3624/stream.m3u8
+#EXTINF:0,Малятко ТВ
+https://cdnua01.hls.tv/hls/803c970f00ef64b2f3471a7583de8302/121/stream.m3u8
+#EXTINF:0,Duck TV HD
+https://cdnua01.hls.tv/hls/803c970f00ef64b2f3471a7583de8302/214/stream.m3u8
+#EXTINF:0,Gulli Girl
+https://cdnua01.hls.tv/hls/803c970f00ef64b2f3471a7583de8302/242/stream.m3u8
+#EXTINF:0,TiJi
+https://cdnua01.hls.tv/hls/803c970f00ef64b2f3471a7583de8302/297/stream.m3u8
